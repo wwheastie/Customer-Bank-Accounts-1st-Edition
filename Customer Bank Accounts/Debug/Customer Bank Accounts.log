@@ -1,0 +1,37 @@
+﻿Build started 11/21/2015 8:09:43 AM.
+     1>Project "C:\Users\wheastie\Downloads\Customer Bank Accounts\Customer Bank Accounts\Customer Bank Accounts.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp "Account List.cpp" "Account Node.cpp" "Manage Accounts.cpp" "Main Menu.cpp"
+         Main Menu.cpp
+         Manage Accounts.cpp
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(378): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(617): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(628): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(642): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(653): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(664): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(676): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(697): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(709): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(719): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(787): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\manage accounts.cpp(820): warning C4018: '<' : signed/unsigned mismatch
+         Account Node.cpp
+         Account List.cpp
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\account list.cpp(428): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\wheastie\downloads\customer bank accounts\customer bank accounts\account list.cpp(439): warning C4018: '<' : signed/unsigned mismatch
+         Main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wheastie\Downloads\Customer Bank Accounts\Debug\Customer Bank Accounts.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\wheastie\Downloads\Customer Bank Accounts\Debug\Customer Bank Accounts.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wheastie\Downloads\Customer Bank Accounts\Debug\Customer Bank Accounts.lib" /MACHINE:X86 Debug\Main.obj
+         "Debug\Account List.obj"
+         "Debug\Account Node.obj"
+         "Debug\Manage Accounts.obj"
+         "Debug\Main Menu.obj"
+         LINK : C:\Users\wheastie\Downloads\Customer Bank Accounts\Debug\Customer Bank Accounts.exe not found or not built by the last incremental link; performing full link
+         Customer Bank Accounts.vcxproj -> C:\Users\wheastie\Downloads\Customer Bank Accounts\Debug\Customer Bank Accounts.exe
+     1>Done Building Project "C:\Users\wheastie\Downloads\Customer Bank Accounts\Customer Bank Accounts\Customer Bank Accounts.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.97
